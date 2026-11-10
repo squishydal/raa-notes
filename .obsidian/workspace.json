@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a03823164832f22e",
+        "id": "19a2a72f34ffdf5c",
         "type": "tabs",
         "children": [
           {
-            "id": "8ea27295429f42cf",
+            "id": "fe617b6f19a49d97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recap Laptop/09-NOV-2026.md",
+                "file": "Daily Notes/09-NOV-2026.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,91 +22,19 @@
             }
           },
           {
-            "id": "1b8afd9ee9e5ece6",
+            "id": "2a80b3c48d79aaa2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Recap Laptop/05-NOV-2026.md",
-                "mode": "source",
-                "source": false
+                "file": "TUGAS.jpg"
               },
-              "icon": "lucide-file",
-              "title": "05-NOV-2026"
-            }
-          },
-          {
-            "id": "326b4da3774c331c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recap Laptop/Full Installation & Setup Laptop.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Full Installation & Setup Laptop"
-            }
-          },
-          {
-            "id": "b9650044dce34ed2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "file:/home/raa/Downloads/nginx-pikachu-raichu-recap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "nginx-pikachu-raichu-recap"
-            }
-          },
-          {
-            "id": "f9b9a36dbf281d34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recap Laptop/06-NOV-2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06-NOV-2026"
-            }
-          },
-          {
-            "id": "2c68a45fa7afeb59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recap Laptop/07-NOV-2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07-NOV-2026"
-            }
-          },
-          {
-            "id": "7c3a7f5f9f240719",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recap Laptop/09-NOV-2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09-NOV-2026"
+              "icon": "lucide-image",
+              "title": "TUGAS"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -276,20 +204,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b9650044dce34ed2",
+  "active": "2a80b3c48d79aaa2",
   "lastOpenFiles": [
-    "Recap Laptop/05-NOV-2026.md",
-    "Recap Laptop/09-NOV-2026.md",
+    "BUSHU and GITHOOKS FLOW.jpg",
+    "TUGAS.jpg",
+    "Daily Notes/10-NOV-2026.md",
+    "Daily Notes/02-NOV-2026.md",
+    "Daily Notes/09-NOV-2026.md",
+    "Daily Notes/07-NOV-2026.md",
+    "Daily Notes/06-NOV-2026.md",
+    "file:/home/raa/Downloads/nginx-pikachu-raichu-recap.md",
+    "Daily Notes/05-NOV-2026.md",
     "Recap Laptop/09-NOV-2026.zip",
-    "Recap Laptop/04-NOV-2026.md",
-    "Recap Laptop/03-NOV-2026.md",
-    "Recap Laptop/07-NOV-2026.md",
-    "Recap Laptop/06-NOV-2026.md",
+    "Daily Notes/04-NOV-2026.md",
+    "Daily Notes/03-NOV-2026.md",
     "Recap Laptop/Full Installation & Setup Laptop.md",
-    "Untitled",
+    "Daily Notes",
     "Resorces",
-    "20261103_165946.jpg",
-    "Recap Laptop/02-NOV-2026.md",
     "create a link.md",
     "Recap Laptop",
     "Welcome.md"
