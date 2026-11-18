@@ -13,28 +13,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/09-NOV-2026.md",
+                "file": "Daily Notes/11-NOV-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09-NOV-2026"
+              "title": "11-NOV-2026"
+            }
+          },
+          {
+            "id": "eeb6c7fc491c4a1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/12-NOV-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12-NOV-2026"
+            }
+          },
+          {
+            "id": "4ad30f3ed7ca6dcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/13-NOV-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13-NOV-2026"
             }
           },
           {
             "id": "2a80b3c48d79aaa2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "TUGAS.jpg"
+                "file": "Daily Notes/arma-tora-setup.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "TUGAS"
+              "icon": "lucide-file",
+              "title": "arma-tora-setup"
+            }
+          },
+          {
+            "id": "30707968e0abce9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/10-NOV-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10-NOV-2026"
+            }
+          },
+          {
+            "id": "53e2473da8276ee5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/arma-tora-setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "arma-tora-setup"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -204,21 +262,35 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2a80b3c48d79aaa2",
+  "active": "53e2473da8276ee5",
   "lastOpenFiles": [
-    "BUSHU and GITHOOKS FLOW.jpg",
-    "TUGAS.jpg",
-    "Daily Notes/10-NOV-2026.md",
-    "Daily Notes/02-NOV-2026.md",
-    "Daily Notes/09-NOV-2026.md",
-    "Daily Notes/07-NOV-2026.md",
-    "Daily Notes/06-NOV-2026.md",
-    "file:/home/raa/Downloads/nginx-pikachu-raichu-recap.md",
-    "Daily Notes/05-NOV-2026.md",
-    "Recap Laptop/09-NOV-2026.zip",
+    "Daily Notes/arma-tora-config-locations.md",
+    "Daily Notes/arma-tora-setup.md",
+    "Daily Notes/11-NOV-2026.md",
+    "Daily Notes/13-NOV-2026.md",
+    "Untitled.md",
+    "20261111_100631.jpg",
+    "arma-tora-setup.md",
+    "Daily Notes/12-NOV-2026.md",
     "Daily Notes/04-NOV-2026.md",
     "Daily Notes/03-NOV-2026.md",
+    "Daily Notes/05-NOV-2026.md",
+    "Daily Notes/07-NOV-2026.md",
+    "Daily Notes/09-NOV-2026.md",
     "Recap Laptop/Full Installation & Setup Laptop.md",
+    "Daily Notes/02-NOV-2026.md",
+    "20261111_160019.jpg",
+    "20261111_160019 1.jpg",
+    "20261111_160019 2.jpg",
+    "20261111_100631 1.jpg",
+    "Daily Notes/06-NOV-2026.md",
+    "Daily Notes/10-NOV-2026.md",
+    "Excalidraw/Drawing 2026-11-10 14.57.16.excalidraw.md",
+    "Excalidraw",
+    "BUSHU and GITHOOKS FLOW.jpg",
+    "TUGAS.jpg",
+    "file:/home/raa/Downloads/nginx-pikachu-raichu-recap.md",
+    "Recap Laptop/09-NOV-2026.zip",
     "Daily Notes",
     "Resorces",
     "create a link.md",
